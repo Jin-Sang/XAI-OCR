@@ -1,0 +1,74 @@
+SAJ SAY ..
+
+Booking Dispatch
+
+BSM ID: 227809
+
+Date: 01/19/23
+Contract: 720002952W
+Booking Number: EBKG04770304
+
+Material:
+
+‘CUT OFF DATES
+
+Earliest Pick Up:
+Earliest Return: 1/31/23 7:00am
+Doc Cut Off: 2/01/23 4:00pm
+Cutoff Date: 2/02/23 5:00pm
+
+INSPECTION DETAILS
+
+Inspection Required: NO INSPECTION REQUIRED
+CCIC Application #:
+
+CCIC Inspection Date:
+
+Customer:
+
+Logistics Execution:
+No of Containers and Type:
+1520 - SHREDDED ARMATURES
+
+Pick-Up Containers At:
+
+Return To:
+
+AMERSD | AMERICA METAL INDUSTRY (THAILAND) CO., LTD
+
+ANGELICA CANO
+
+1 x 40' High Cube
+
+TTI
+
+TTl
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+
+‘ADDITIONAL INFORMATION
+
+PACKING INSTRUCTIONS:
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+Shipping Line:
+USA
+
+Vessel and Voyage: MSC SONIA FV305R
+
+Sailing Date: 02/09/23
+
+MEDITERRANEAN SHIPPING CO.
+
+Load Port:
+Destination:
+
+Pierpass Claimed:
+
+LONG BEACH
+
+LAEM CHABANG

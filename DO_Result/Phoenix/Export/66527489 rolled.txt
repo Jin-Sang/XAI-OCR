@@ -1,0 +1,56 @@
+SAJ SAY ..
+
+Booking Dispatch
+
+BSM ID: 217636
+
+Date: 12/05/22
+
+Contract: 7200062791
+Booking Number: 66527489
+
+Material: 1730 - ZORBA LARGE
+
+‘CUT OFF DATES
+
+Earliest Pick Up: 12/04/22
+
+Earliest Return: 12/05/22 8:00am
+Doc Cut Off: 12/08/22 12:00pm
+Cutoff Date: 12/12/22 4:00pm
+
+‘INSPECTION DETAILS
+Inspection Required: NO INSPECTION REQUIRED
+
+CCIC Application #:
+
+CCIC Inspection Date:
+
+Customer: HANG13 | HANG YUE TONG COMPANY LIMITED
+Logistics Execution: SILINA GARZA
+No of Containers and Type: 5 x 40' High Cubes
+
+Pick-Up Containers At: PCT
+
+Return To: ITS
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+
+‘ADDITIONAL INFORMATION
+
+PACKING INSTRUCTIONS:
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+Shipping Line: HAPAG LLOYD (E)
+
+Vessel and Voyage: ONE AQUILA 018W
+
+Sailing Date: 12/17/22
+
+Load Port: LONG BEACH
+Destination: LAEM CHABANG
+Pierpass Claimed: 11/14/22

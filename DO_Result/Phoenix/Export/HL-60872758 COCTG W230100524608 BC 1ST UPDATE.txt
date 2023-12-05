@@ -1,0 +1,246 @@
+BOBC0201-059TB
+
+HAPAG-LLOYD (AMERICA) LLC
+3 RAVINIA DRIVE, SUITE 1600, ATLANTA, GA 30346, USA
+
+Our Reference: 60872758
+
+Your Reference: W230100524608
+
+€€ Hapag-Lloyd
+
+Page 1 of 3
+
+Received from:
+
+GLOBAL SHIPPING
+
+4817 E BUSCH BLVD., SUITE 208
+TAMPA, FL 33617
+
+USA
+
+Name BAHLOUL, OLA
+Tel. 8139802404
+E-Mail OLA.GLOBAL@VERIZON.NET
+
+Booking Confirmation
+
+60872758
+W230100524608
+
+Our Reference:
+
+Your Reference:
+
+BL/SWB No(s).:
+Summary:
+
+1x45GP
+
+Export:
+
+AES-ITN - AES Internal Transaction Number
+
+Export empty pick up depot(s)
+
+PACIFIC TERMINAL
+
+PACIFIC TERMINAL SERVICES COMPANY,
+3400 NEW DOCK STREET
+
+LOS ANGELES, CA 90807
+
+USA
+
+From To
+
+FCL / Merchant's Haulage (CY)
+
+HL Booking Contact:
+
+Name | MUNUSAMY, THULASI DEVI
+Tel. +1 855 227 4612
+
+Fax
+
+E-Mail USA@SERVICE.HLAG.COM
+
+Date of Issue: 16-Jan-2023 20:16:17 ™
+
+09-Jan-2023
+UGLOBA 683
+
+Booking Date:
+Contract No.:
+
+DG HiTemp. —™§00G SOW
+
+Import: FCL / Merchant's Haulage (CY)
+
+not provided
+
+Export terminal delivery address
+
+YUSEN TERMINALS LLC.
+
+MTY PICK UP: LGBEMPTIES@HLAG.COM
+701 NEW DOCK STREET
+
+BERTH 212-215
+
+TERMINAL ISLAND, CA 90731, USA
+FIRMS CODE Y790
+
+By ETD ETA
+
+LOS ANGELES, CA CARTAGENA (COLOMBIA) Vessel
+YUSEN TERMINALS,LAX CONTECAR
+(USLAX) (COCTG) DP Voyage:
+Voy. No:
+IMO No:
+Call Sign:
+Flag:
+CARTAGENA (COLOMBIA) SANTOS Vessel 23-Feb-2023 06-Mar-2023
+CONTECAR DP WORLD SANTOS NYK DIANA 13:00 19:00
+(COCTG) (BRSSZ) DP Voyage:
+Voy. No:
+IMO No:
+Call Sign:
+Import terminal pick up address
+EMBRAPORT EMPRESA BRASILEIRA DE
+TERMINAIS PORTUARIOS S/A
+EST PARTICULAR DA CODESP, S/N
+ILHA BARNABE
+11095-700-SANTOS, BRAZIL
+Hapag-Lloyd Aktiengesellschaft .
+Chairman of the Supervisory Board: Michael Behrendt (OFAC
+Executive Board: Rolf Habben Jansen (CEO), Donya-Florence Amer, Mark Frese, Dr. Maximilian Rothkopf 4
+
+Registered Office: Hamburg, Company Register: Amtsgericht Hamburg HRB 97937
+
+Submit your VGM mm:
+BOBC0201-059TB
+
+HAPAG-LLOYD (AMERICA) LLC &€ Hapag-Lloyd
+
+3 RAVINIA DRIVE, SUITE 1600, ATLANTA, GA 30346, USA
+
+Our Reference: 60872758 Your Reference: W230100524608 Page 2 of 3
+
+Deadline Location Date / Time (local) Required Action
+
+Shipping instruction closing LOS ANGELES, CA Provide your final BL/SWB instructions
+(USLAX) 12:00
+
+VGM cut-off LOS ANGELES, CA Provide verified container gross weight
+(USLAX) 16:00 (VGM)
+
+FCL delivery cut-off LOS ANGELES, CA Last possible delivery of regular
+(USLAX) 16:00 containers at the export terminal
+
+Please send your shipping instruction to : DOC.USBSC@CSD.HLAG.COM
+
+No. Type Container no. SOW Empty pick up date/time Empty pick up depot Add. Info
+
+1 45GP N 20-Jan-2023 PACIFIC TERMINAL
+
+Container Type 40' X 8 X 96" HIGH CUBE CONT.
+Commodity Description: ALUMINUM Gross Weight: 14000.0 KGM Gross Volume: 57.0 MTQ
+Customs Details
+
+According to shipment routing, the following customs requirements are relevant:
+
+This booking confirmation is subject to receiving of all relevant bill of lading / sea waybill data from the shipper in due time respectively according
+to local documentation closing dates/times.
+
+01/16 BOOKING ROLLED AS PER EDI REQUEST
+
+Please refer to the following link for operational updates that might
+
+impact your business.
+
+This includes information on truck capacity, terminal/rail congestion
+
+and service interruptions.Link
+
+*** COVID-19 REMARK ***In order to avoid release issues due to the COVID-19 pandemic westrongly recommend to (A) switch your shipments
+to a sea waybillwherever legally and commercially acceptable or (B) your documentsdistributed at destination. In case of issuance of an original
+bill oflading, Shipper/Booking Party are herewith requested to make a colorscan copy of all OBL pages - once duly endorsed - and store them
+forthe duration of the crisis before sending the OBL to bank/consignee/notify.
+
+- All container cutoffs are subject to change. The shipper's trucker is responsible to confirm first receiving and cutoff dates at the rail ramp and
+first receiving at the port prior to attempting the in-gate of the container.- Feeder details will only be confirmed once cargo has arrived at port of
+discharge and scheduled for next available feeder.- Hapag-Lloyd is unable to guarantee a no partial shipment.If you find your entire shipment is
+not on dock for the scheduled vessel, please notify your booking team directly prior to the cutoff date/time of any instructions to roll the shipment.
+All possible terminal charges to roll the shipment are for the account of the cargo..EQUIPMENT :.- Ensure trucker verifies with depot before pick
+up.- If an empty container is picked up for an export booking and returned as an empty, there might be additional charges incurred ex: gate
+charges, per diem charges for account of the cargo.- Food grade containers: We do not offer food grade standard equipment. Your trucker can
+request the container to be clean/swept down. In some cases we can offer steam cleaning, in which we would have to obtain the costs from the
+equipment team in order to confirm if the service can be provided. Please contact your local customer service team for further
+
+assistance.. DOCUMENTATION :.- In alignment with U.S. Customs Regulation [15 CFR 30 FTR], AES-ITN (Automated Export System) is
+required in addition to Shipping Instructions in order to export cargo out of the United States with Hapag-Lloyd. AES-ITN alone is not sufficient for
+cargo to export, as the information declared by the Shipper party on the Shipping Instructions must also be manifested to US Customs and
+Border Protection as well as any relevant foreign Customs agencies. Failure to provide this information may result in containers not being
+shipped on the intended vessel. Please ensure that AES-ITN and Shipping Instructions are submitted latest by the posted documentation cut-off
+date provided (local).- In case of booking split, in alignment with US Customs Requirements, Hapag-Lloyd will require a new AES-ITN number to
+filed with CBP. Please provide your AES-ITN to your respective Documentation Center shown on your booking confirmation by the
+documentation cut off. If you have any questions, please contact your Documentation/Customer Service representative.
+
+=== LONG BEACH / LOS ANGELES PORT, DOOR AND RAIL MOVES ===PIER PASS and Clean truck Fund (CTF) is the responsibility of
+cargoowner. Starting April 1, 2022, cargo owners or their agents mustarrange to pay the CTF rate prior to pick up or drop-off.PierPass must be
+cleared prior to the delivery/departure and to/fromthe terminal.Additional information on the PierPass is available via thefollowing sources:Info -
+
+www.pierpass.org
+Tel. - 877 863-3310
+
+SUBMIT RAIL BILLING TO: RNAGPLGBEXPORTDOOR@HLAG.COM.
+
+++ Rail from Los Angeles( YTI) to Norfolk port ++
+For delivery of Rail Export shipment to Yusen Terminal please provide
+|_Rail Order # HLCORF22 at the Terminal Gate by Rail Cut Off date.
+
+Hapag-Lloyd Aktiengesellschaft .
+Chairman of the Supervisory Board: Michael Behrendt ‘0
+Executive Board: Rolf Habben Jansen (CEO), Donya-Florence Amer, Mark Frese, Dr. Maximilian Rothkopf
+
+Registered Office: Hamburg, Company Register: Amtsgericht Hamburg HRB 97937 Submit your VGM mm:
+
+cL]
+BOBC0201-059TB
+
+HAPAG-LLOYD (AMERICA) LLC &€ Hapag-Lloyd
+
+3 RAVINIA DRIVE, SUITE 1600, ATLANTA, GA 30346, USA
+
+Our Reference: 60872758 Your Reference: W230100524608 Page 3 of 3
+
+Dear valued customer, due to recent rail congestion, various rail
+providers/locations are limiting reservations or metering cargo.
+Please note that our rail billing team has no visibility to available
+reservations and will submit billing as requested. It is important for
+your motor carriers to plan accordingly and secure the reservations
+with the rail prior to delivery.
+
+ERD/LRD provided are valid at time of initial booking and are subject
+to change withouth notice . For current ERD/LRD for US rail via US
+POL, please refer to
+https://www.hapag-lloyd-www.hapag-lloyd-RNAOPS.com.com and refer to US
+Export Rail billing >ERD/Cutoff request
+
+Legal Terms
+
+All dates/times are best reasonable estimates and may change. The booking confirmation is subject to sealing of container with high security
+seals by shipper. Container stowage on vessel is in Carrier's discretion. Carrier operates under its Bill of Lading/Sea Waybill terms and
+conditions to be provided upon request or displayed in any of Carrier's/its agent's offices or under www.hapag-lloyd.com, containing liability
+limitations deviating from German law. As to VGM, CL 12.2 applies and shipper agrees that submission of VGM by third parties on his behalf
+shall be deemed authorized if such message shows: Match of container and shipment number, name of responsible party (shipper) and person
+authorized by shipper. Carrier may ask for further information due to country requirements and relies in the correctness of the transmitted data.
+Carrier will not verify authorization or VGM. Shipper shall monitor its VGM on _www.hapag-lloyd.com/en/my_shipments.html and shall notify
+Carrier promptly if VGM is not correct.
+
+Hapag-Lloyd Aktiengesellschaft .
+Chairman of the Supervisory Board: Michael Behrendt OF Ol
+Executive Board: Rolf Habben Jansen (CEO), Donya-Florence Amer, Mark Frese, Dr. Maximilian Rothkopf 4
+Registered Office: Hamburg, Company Register: Amtsgericht Hamburg HRB 97937 Submit your VGM mm:

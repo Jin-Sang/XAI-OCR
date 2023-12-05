@@ -1,0 +1,58 @@
+SAJ SAY ..
+
+Booking Dispatch
+
+BSM ID: 215826
+
+Date: 11/08/22
+Contract: 720001706W
+Booking Number: DALA39301601
+Material: 4700 - TALK
+
+‘CUT OFF DATES
+Earliest Pick Up:
+
+Earliest Return: 11/17/22 3:00am
+Doc Cut Off: 11/22/22 4:00pm
+Cutoff Date: 11/22/22 4:00pm
+
+INSPECTION DETAILS
+
+Inspection Required: NO INSPECTION REQUIRED
+
+CCIC Application #:
+
+CCIC Inspection Date:
+
+Customer: JMTEO1 | JM TECH CO., LTD
+Logistics Execution: NICK FRISARI
+No of Containers and Type: 1 x 40' High Cube
+
+Pick-Up Containers At: TTI
+
+Return To: TTI
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+
+‘ADDITIONAL INFORMATION
+PACKING INSTRUCTIONS:
+
+JOHN:
+
+AS SOON AS YOU SEE THE MR IN BSM, PLEASE ENTER AND UPLOAD A SCHEDULED PACKING DATE.
+
+720001706W JMTECH (TALK / FE TALK - BALED ONLY) 1X40HC PHX
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+
+Shipping Line: HYUNDAI AMERICA SHIPPING Load Port: LONG BEACH
+AGENC
+Vessel and Voyage: HYUNDAI JUPITER 0026W Destination: INCHEON
+
+Sailing Date: 12/01/22
+
+Pierpass Claimed:

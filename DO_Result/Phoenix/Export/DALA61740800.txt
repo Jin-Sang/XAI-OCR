@@ -1,0 +1,66 @@
+SAJ SAY ..
+
+Booking Dispatch
+
+BSM ID: 229902
+
+Date: 02/03/23
+Contract: 72B003566W
+Booking Number: DALA61740800
+
+Material:
+
+‘CUT OFF DATES
+
+Earliest Pick Up:
+Earliest Return: 2/06/23 8:00am
+Doc Cut Off: 2/10/23 4:00pm
+Cutoff Date: 2/10/23 4:00pm
+
+INSPECTION DETAILS
+
+Inspection Required: NO INSPECTION REQUIRED
+CCIC Application #:
+
+CCIC Inspection Date:
+
+Customer:
+
+Logistics Execution:
+
+No of Containers and Type:
+
+ZHENO3 | ZHENGQIU (THAILAND) CO., LTD E
+NICK FRISARI
+3 x 40' High Cubes
+
+1811 - SHREDDED ICW (11%CU)
+
+Pick-Up Containers At: ITS
+
+Return To: ITS
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+
+‘ADDITIONAL INFORMATION
+PACKING INSTRUCTIONS:
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+
+Shipping Line: HYUNDAI AMERICA SHIPPING
+
+AGENC
+
+Vessel and Voyage: ONE EAGLE 0027W
+
+Sailing Date: 02/18/23
+
+Load Port: LONG BEACH
+
+Destination: LAEM CHABANG
+
+Pierpass Claimed:

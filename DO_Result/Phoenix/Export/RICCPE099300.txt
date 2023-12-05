@@ -1,0 +1,71 @@
+Booking Receipt Notice
+
+OCEAN NETWORK EXPRESS 31 OCT 22 19:26 Page : 1/2
+
+We received a booking request by you as follows. Please review following items and advise us of any discrepancy
+
+Booking No: RICCPE099300 Booking Ref. No. : RICCPE099300 Booking Date: 310ct22
+. e Export Ref.NO :
+Pea ce M ission B/L No. : ONEYRICCPE099300
+Service Contract No > ATLOO14N22
+
+Pre Carrier 7 Latest ETA/ETD
+
+MRN(Korea only) : CCN
+IMO/Flag/Call Sign: -9321263/JAPAN/7JWH CCN.
+
+YM WELCOME 033W(AG3) ETA/ETD
+9708459/HONG KONG/VRPF8 NRT
+
+Post Carrier
+IMO/Flag/Call Sign
+
+Place of Receipt : LOS ANGELES, CA
+
+Port of Loading : LOS ANGELES, CA Terminal : TRAPAC LOS ANGELES
+
+Port of Discharging : Terminal :
+
+Place of Delivery : Terminal
+
+TIS Port : SINGAPORE POD/DEL ETA : 05Jan23 / 05Jan23
+
+Ocean Route Type : Non-direct Rev/Del Term : CY/CY
+
+Equipment Type/Q’ty : 40'DRY HC.-1
+
+Commodity : WORN CLOTHING & OTHER WORN Estimated Weight + 18,143.000 KGS
+
+Empty Pick UPCY : TRAPAC LOS ANGELES Empty Pick Up Date
+
+Address : TRAPAC 630 W Harry Bridges Bld Bth 136-141 Wilmington CA
+
+TEL t 4 Yard PIC
+
+‘FullRetunCY |: TRAPACLOSANGELES—~—~S Full Return Date 04Nov22 16:00 :
+
+Address : TRAPAC 630 W Harry Bridges Bid Bth 136-141 Wilmington CA
+
+TEL | Yard PIC
+
+‘DocCut-off. —~:~«03Nov2212:00 ~~~ + CustomsCut-off
+
+VGM Cut-off : 04Nov22 16:00
+
+Port Cargo Cut-off : 04Nov22 16:00 Rail Receiving Date ; =
+
+Special Cargo Information (Please see attached, if exists) [ | Shipper's own Container [| RAD
+[| Dangerous | Reefer (Temp. Set ) LC] Awkward | Break Bulk
+Remarks 1 : FLEX NOT OK
+
+COMMODITY: WORN CLOTHING & OTHER WORN ARTICLES
+COMMODITY CODE: 630900
+
+Remarks 2 : See attached rider.
+
+THE ABOVE BOOKING IS SUBJECT TO CHANGE FOR DELIVERY DATE/TIME AS WELL AS TO VESSEL SPACE. VESSEL SCHEDULE MAY BE
+CHANGED WITHOUT NOTICE. ANY DATE/TIME ABOVE IS FOR MERCHANT'S REFERENCE ONLY AND WITHOUT ANY GUARANTEE.
+
+Customer Service : 844-413-6029
+Thank you for choosing ONE
+

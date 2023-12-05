@@ -1,0 +1,39 @@
+BOL ONEYNB2BEX064500 NYK THEMIS
+
+Container ONEU7028264 BOL Dest LAX
+Port Entry Da 12/16/2022 Container Size 4SFT
+Port Entry LAX Firm Code
+
+This form must accompany driver and be signed by consignee as proof of delivery.
+
+Total Total
+Case PO# NO. DESCRIPTION Qty CSPack Cases Cube Case Wgt ‘Total Wet. SKU # Delivery PO
+23PO-1025 80625-01-113 10CT 2.5" EGGS W/STENCILS 15300 12 1275 1127.38 47 5967 982935 M326386-47
+23PO-1025 90482-01-113 34CT BOXED NESTED EASTER EGG HUNT KIT 4758 6 793 550.384 2.9 2267.98 261188 M326386-47
+23PO-1025 65418-02-113 1.750Z EASTER GRASS - GREEN ONLY- MASTER CARTON 31200 96 325 920.026 12.4 4017 62551 M326386-47
+
+2393 2597.79 12251.98
+
+PUBLIX SUPER MARKETS, INC. Delivery Carrier : Time In
+100 N E 183RD ST
+MIAMI FL 33179 Delivery Date Time Out
+LFD Target Del Date 1/16/2023
+Contact Seal #
+Phone Exceptions
+E-mail Traffic.Appointments2 @Publix.com
+
+Fax
+
+Lumper Received by
+
+Instructions:
+
+. Reference Delivery PO when making appointment
+. Nofity our office of delivery appointments.
+. Exceptions: Shortages, Damages or Overages (all exception must be identified by item and our office notified immediately)
+
+. Proof of Delivery: Required within 3 days of delivery, email to msousa@fareastbrokers.com
+
+ap ON
+
+. Seal # required.

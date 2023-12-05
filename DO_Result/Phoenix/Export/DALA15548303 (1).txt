@@ -1,0 +1,41 @@
+SAD Booking Dispatch
+Recycling
+
+BSM ID: 219706
+
+Date: 11/17/22 Customer: POONO1 | POONGSAN CORPORATION
+Contract: 72B002157W Logistics Execution: | NICK FRISARI
+
+Booking Number: DALA15548303 No of Containers and Type: 2 x 40' High Cubes
+Material: 2400 - CUPRO NICKEL-90/10
+
+‘CUT OFF DATES
+
+Earliest Pick Up: Pick-Up Containers At: TTI
+Earliest Return: 11/18/22 12:00am Return To: TTI
+Doc Cut Off: 11/22/22 12:00am
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+Cutoff Date: 11/23/22 12:00am
+
+‘INSPECTION DETAILS
+Inspection Required: NO INSPECTION REQUIRED
+
+CCIC Application #:
+
+CCIC Inspection Date:
+
+‘ADDITIONAL INFORMATION
+PACKING INSTRUCTIONS:
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+
+Shipping Line: HYUNDAI AMERICA SHIPPING Load Port: LONG BEACH
+AGENC
+Vessel and Voyage: HYUNDAI JUPITER 0026W Destination: BUSAN
+
+Sailing Date: 12/03/22 Pierpass Claimed:

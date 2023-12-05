@@ -1,0 +1,128 @@
+BOOKING AMENDMENT
+
+MAERSK
+
+Booking No: 914807619 Print Date: 2023-01-07 01:20 UTC
+Booked by Party: CTC LOGISTICS (LA) INC Service Mode: Cy/CY
+(Contact Name: Frank Wang rom: Long Beach,California,United States
+ooked by Ref. No: To: Ningbo,Zhejiang,China
+Service Contract: 298290145 Shipper Ref. No:
+rice Owner: CTC LOGISTICS (LA) INC Business Unit: Maersk Agency U.S.A., Inc - Woodlands
+Named Account Customer: {Commodity Description: Copper, refined, metal
+
+We request you to review the specific parameters, viz. Service Contract, Price Owner, Named account customer and Commodity
+description. In case there are any changes required to these parameters, please send us a request before any containers(s) are picked
+
+Thank you for placing your booking with Maersk A/S, as Carrier
+
+Equipment
+Quantity Size/Type/Height (ft.in) ‘Sub. Equip Gross Weight Pack. Qty/Kind Cargo Volume
+1 20 DRY 86 33069.339 US LBS 15 PACKAGES 20.0000
+1 40 DRY 86 33069.339 US LBS 15 PACKAGES 40.0000
+
+If you would like to place any further bookings or amend any details, please do not hesitate to contact this office. Thank You. For terminals and rails requiring a reservation
+for empty pick-up and/or load return, we encourage all customers to acquire their reservation as early as possible. For SPOT bookings, Maersk can offer booking
+amendments or cancellations without penalty, provided we are informed of challenges in obtaining an RV while the receiving window is in progress. Please contact us via
+email at us.export@maersk.com or reach out to your customer experience team member.
+
+All booking confirmations are subject to equipment availability.
+
+Intended Transport Plan
+
+Type Location Release Date From To Return Date Time Load Ref.
+Empty Container |LSA APM Terminal Pier 400( W185 )| 2023-01-07 06:49
+Depot LSA APM Terminal Pier 400( W185 )
+
+Pier 400, 2500 Navy Way
+Los Angeles, CA
+
+Return Equip Total Terminals International 2023-01-13 16:00
+Delivery Terminal |Total Terminals International
+301 Hanjin Rd.
+
+Long Beach, CA
+
+Empty Container |LSA APM Terminal Pier 400( W185 )| 2023-01-07 06:49
+Depot LSA APM Terminal Pier 400( W185 )
+Pier 400, 2500 Navy Way
+
+Los Angeles, CA
+
+Return Equip Total Terminals International 2023-01-13 16:00
+Delivery Terminal |Total Terminals International
+301 Hanjin Rd.
+
+This booking confirmation is subject to compliance with Maersk policy on shipments to Russia (available on maersk.com) and UN, EU and US sanction and export control laws, including US and EU
+sanctions laws applicable to Russia (Sanctions). By proceeding, shipper represents that this booking in no way is in violation of Maersk policy on shipments to Russia, that the shipment does not involve,
+nor shall it involve, in either context directly or indirectly, in any way any entity or person subject to Sanctions, including any entity or person subject to Sanctions relating to Russia and that this booking
+does not involve any items prohibited by Sanctions for import to Russia. If this shipment is in violation of Maersk policy on shipments to Russia, any entity or person involved in this booking is an entity
+
+or person subject to Sanctions or any items in this booking are prohibited for import to Russia by Sanctions, the shipment will be returned to origin without exception, and shipper is responsible for all
+cost and risk for such return. Shipper agrees that Carrier may withhold release of cargo pending investigation to determine if the booking is in violation of Sanctions.
+
+This document is subject to following:
+
+- This booking and carriage are subject to the Maersk Line Terms and Conditions of Carriage which are available upon request from the carrier or his representatives and are furthermore accessible on the
+Maersk website "<http://www.maersk.com>" under "Services" / "General Business Terms".
+
+- The shipment is subject to tariff rates unless a correct and applicable service contract number is available
+
+- The carrier's right to substitute the named and/or performing vessel(s) with another vessel or vessels at any time.
+
+Shipments destined for or carried/transhipped via the USA:
+- This document is given subject to the customer providing the correct cargo description in accordance with U.S. law, including U.S. Customs requirements as described in Customs Rules and Regulations,
+
+19 CFR Parts 4, 113 and 178 of October 31, 2002
+
+Page 1/2
+This booking confirmation is subject to compliance with Maersk policy on shipments to Russia (available on maersk.com) and UN, EU and US sanction and export control laws, including US and EU
+sanctions laws applicable to Russia (Sanctions). By proceeding, shipper represents that this booking in no way is in violation of Maersk policy on shipments to Russia, that the shipment does not involve,
+nor shall it involve, in either context directly or indirectly, in any way any entity or person subject to Sanctions, including any entity or person subject to Sanctions relating to Russia and that this booking
+does not involve any items prohibited by Sanctions for import to Russia. If this shipment is in violation of Maersk policy on shipments to Russia, any entity or person involved in this booking is an entity
+or person subject to Sanctions or any items in this booking are prohibited for import to Russia by Sanctions, the shipment will be returned to origin without exception, and shipper is responsible for all
+cost and risk for such return. Shipper agrees that Carrier may withhold release of cargo pending investigation to determine if the booking is in violation of Sanctions.
+
+‘As a member of the Ocean Carrier Equipment Management Association (OCEMA), Maximum Gross Allowable Cargo Weights http://www.ocema.org/cwg.htm are intended only as a general guideline to
+promote safe and lawful transport practices regarding the maximum weight of cargo that can be loaded into international containers for transport over U.S. roads. Use of this guideline does not in any
+way eliminate the obligation of the shipper, consignee, motor carrier, or other user to ensure that a particular load meets local, state or federal road weight limits and is otherwise safe and roadworthy
+for transport within the U.S.
+
+All obligations of the Carrier in relation to the Carriage, including loading a container and issuing a bill of lading, are subject at all times to all parties under the definition of Merchant being acceptable to
+the Carrier. The Merchant shall be liable for and indemnify the Carrier against all claims, liabilities, losses, damages, costs, delays, attorney fees and/or expenses, and additional Freight incurred as a
+result of the Merchant nominating a party not acceptable to the Carrier.
+
+Whether or not a party is acceptable to the Carrier can be verified on https://www.maersk.com/portaluser/account/customer-search
+
+Type Location Release Date From To Return Date Time Load Ref.
+Long Beach, CA
+
+Load Itinerary
+
+From To Mode Vessel Voy No. ETD ETA
+Total Terminals Beilun Container Terminal | MVS MSC LONDON 302S 2023-01-24 2023-02-22
+International Phase 4
+
+Description ‘Quantity ‘Additional Info
+
+AES references provided via www.maersk.com will be immediately updated to our system. Other channels may take 4-12 hours for
+processing. If youneed assistance with your AES filing, Maersk can provide AES services. Please contact us at export.mcsi.nam@maersk.
+com and christopher.vanwest@Ins.maersk.com at least 2 working days prior to the AES deadline.
+
+If there is no equipment activity at the time of the inland and/or port cut off, Maersk reserves the right to cancel this shipment without prior
+notice. To prevent cancellation, you can amend your booking to a later sailing by logging on to http://maersk.com before cut off. Please
+make sure to notify Maersk Customer Service if using equipment from a non-Maersk depot or any other alternative channel.
+
+Please note that free time for detention/per diem is 4 working days for standard container types and 3 working days for operating reefer
+and special equipment. Free time will begin on the day the container gates out of the terminal.
+
+Merchant warrants that it will submit an accurate weight of the cargo which meets the applicable over-the-road weight limitations of the
+local, state and federal governments as well as the weight limitations of the service providers in the transport chain (including ports and
+rail). Merchant warrants it is aware that failure will result in an administration fee of USD 200 and additional charges including, but not
+limited to, rejection, termination, transload, scale, additional drayage or haulage, demurrage, detention and/or per diem. Merchant is
+encouraged to contact Maersk Line if there are any questions.
+
+Provided dates, times, and deadlines are estimates based on vessel schedules at time of booking. These are given without guarantee
+and are subject to change. The latest updates to port deadlines can be monitored via our website at https://maersk.com/, while changes
+within 2 weeks of vessel ETA at the first load port will additionally be communicated via email.
+
+2/2

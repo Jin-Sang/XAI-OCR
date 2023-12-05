@@ -1,0 +1,74 @@
+SAJ SAY ..
+
+Booking Dispatch
+
+BSM ID: 220242
+
+Date: 11/18/22
+720002395W
+65864083
+
+Contract:
+Booking Number:
+
+Material:
+
+‘CUT OFF DATES
+
+Earliest Pick Up:
+Earliest Return: 12/02/22 4:00pm
+Doc Cut Off: 12/01/22 4:00pm
+Cutoff Date: 12/05/22 4:00pm
+
+‘INSPECTION DETAILS
+Inspection Required: NO INSPECTION REQUIRED
+
+CCIC Application #:
+
+CCIC Inspection Date:
+
+Customer:
+
+Logistics Execution:
+
+No of Containers and Type:
+1811 - SHREDDER WIRE 11%
+
+Pick-Up Containers At:
+
+Return To:
+
+BEJUO1 | B.E. JUSTMAE TRADING LIMITED E
+JENNIFER FAN
+
+3 x 40' High Cubes
+
+PACIFIC TERMINAL
+
+ITS
+
+*** CARRIER MUST CONFIRM WITH TERMINAL***
+
+‘ADDITIONAL INFORMATION
+PACKING INSTRUCTIONS:
+
+PHOTO INSTRUCTIONS:
+
+OTHER NOTES/COMMENTS:
+
+‘SHIPPING INFORMATION
+
+Shipping Line: HAPAG LLOYD (E)
+
+Vessel and Voyage: ONE GRUS 18W
+
+Sailing Date: 12/12/22
+
+Load Port:
+Destination:
+
+Pierpass Claimed:
+
+LONG BEACH
+
+LAEM CHABANG
