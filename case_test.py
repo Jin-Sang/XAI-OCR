@@ -5,12 +5,14 @@ import os
 
 
 # pdf file을 가져오기
-pdf_path = '/Users/jinsang/OCR/DO_File/LA/11-07-2022/47273-01-113.pdf'
+pdf_path = '/Users/jinsang/OCR/XAI-OCR/DO_File/LA/11-29-2022/23PO-1522.pdf'
 images = convert_from_path(pdf_path)
 
 # pytesseract 모델로 텍스트 읽기  
 for image in images:
     text = pytesseract.image_to_string(image)
     print(text)
+
+print(pytesseract.get_tesseract_version())
 
 
