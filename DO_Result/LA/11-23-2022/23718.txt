@@ -1,0 +1,103 @@
+Sri
+
+Delivery Order - CSHO0021299 WHSU5197732
+
+THE IMPORT MANAGER
+IDEA NUOVA INC.
+
+302 FIFTH AVENUE
+NEW YORK NY 10001
+
+SHIPMENT DETAILS
+
+US PACIFIC TRANSPORT INC
+3636 Main St Ste 6F
+
+Flushing, NY, 11354
+
+Tel: 718-632-8686
+
+Fax: 718-632-8693
+
+www.uspti.com
+
+Page 1 of 1
+
+SHIPMENT SSH00023055
+CONSOL CSH00021299
+DATE 23-Nov-22 09:49
+
+PRINTED BY: NY OP
+
+[PICKUP FROM
+
+PACIFIC CONTAINER TERMINAL - PIER J (W182)
+1521 PIER J AVE
+
+BERTH 246
+
+LONG BEACH CA 90802
+
+UNITED STATES
+
+Phone: +1 866-545-3142 Fax: +1 866-381-5173
+
+[DELIVER TO
+IDEA NUOVA INC./ WHSE#107 NGL
+3100 JEFFERSON ST
+RIVERSIDE CA 92504
+UNITED STATES
+
+Contact: The Transport Manager Phone:
+
+CARRIER ORDER NUMBERS / REFERENCE
+WAN HAI LINES LTD. REF#23718, 28630, 28681
+TRANSPORT COMPANY DELIVERY NOTES
+
+NGL TRANSPORTATION
+
+3100 JEFFERSON ST
+RIVERSIDE CA 92504
+UNITED STATES
+
+Phone: Fax:
+
+WUP - Wait for Pack/Unpack
+
+INLAND FREIGHT
+
+VESSEL / VOYAGE / IMO(LLOYDS) OCEAN BILL OF LADING |[HOUSE BILL OF LADING
+WAN HAI AO7 / E001 WHLC031C573950 SH221123055
+RELEASE TYPE (COMMODITY TYPE
+OBR - Original Bill Required at Destination GEN (General)
+PORT OF LOADING ETD PORT OF DISCHARGE ETA
+CNNGB = Ningbo, China 15-Nov-22 USLGB = Long Beach, United States 27-Nov-22
+ROUTING INFORMATION
+Mode Vessel / Voyage / IMO(Lloyds) Carrier ETD ETA
+SEA WAN HAI AO7 / E001 WAN HAI LINES LTD. 14-Nov-22 27-Nov-22
+MARKS AND NUMBERS GOODS DESCRIPTION WEIGHT VOLUME PACKS (OUT/IN)
+I.N.I 100% POLYESTER PU CURTAINS 14200.000 KG 68.000 M3 3422 CTN/-
+LA 100% POLYESTER SHOWER CURTAINS
+PO#28630/28681
+CONTAINER SEAL TYPE WEIGHT VOLUME PACKS|
+WHSU5197732 WHAA440223 40HC FCL 14200.000 KG 68.000 M3 3422 CTN
+HANDLING/DELIVERY INSTRUCTIONS
+
+CARRIER
+
+We certify that the cargo is in good order and condition and that the Quantities,
+Weights, and Measurements shown here in are true and correct at the time of
+loading into the container or delivery to the carrier.
+
+Signed Date
+
+|[CONSIGNEE
+
+Received the above mentioned cargo/container in apparent good order and
+condition subject to the terms, conditions and exceptions contained in the Container
+Bill of Lading issue by this Company on behalf of the owner.
+
+Signed Date
+
+This order is not valid until merchandise has been released and is available for delivery. Notify us at once if delivery cannot be delivered
+as instructed. US PACIFIC TRANSPORT INC is an agent only, and has no beneficial title in property.

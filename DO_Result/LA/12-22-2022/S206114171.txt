@@ -1,0 +1,118 @@
+‘Ss
+
+Xex Works, Inc.
+
+information exchange: smarter, bette, faster
+
+NGL TRANSPORTATION LLC
+
+DELIVERY ORDER -- Page 1 of 1
+BOL #: S206114171
+
+*$206114171*
+
+Service:
+
+Booked To:
+
+Pickup Freight
+
+Deliver Freight
+
+Ready: 2022-12-30 08:53
+Close: 2022-12-30 17:00
+
+WEST BASIN CONTAINER TERMINAL
+
+2050 JOHN S GIBSON BLVD
+SAN PEDRO, CA 90731
+US
+
+Deliver By: 2023-01-11 16:00
+
+JAS FORWARDING (USA) INC
+
+1975 E Charles Willard St
+Rancho Dominguez, CA 90220
+US
+
+File #: S206114171
+
+MWB: MEDUI0678637
+Hwe: JKT206114171
+Container #: MSDU4055193
+Booking #: EBKG04381426
+
+THIRD PARTY BILL TO
+
+JAS Forwardin
+6165 Barfield Roa
+Atlanta, GA 30328
+US
+
+Your billing should be processed through (USA), Inc.
+
+www.exworks.com. It will be audited and
+updated to the party at right.
+
+Pieces Description Weight Class Additional Information Dimensions
+1 STC 622 CTN, FJALLRAVEN BAGS 15,071 Ib 125 MSC MEDITERRANEAN SHIPPING
+(6,836.1 COMPANY S.A. MSC UNITED VIII
+kg) Voyage: FV247A
+
+40' Dry Container
+MSDU4055193
+Seal #: FJ14373596
+
+CONTACT JAS Forwarding (USA), Inc. WITH ANY QUESTIONS.
+6165 Barfield Road
+
+Atlanta, GA 30328
+
+US
+
+JAS Forwarding (USA), Inc. Contact: chelly elliott
+chelly.elliott@jas.com
+
+303-371-6066
+
+DEN / BRN
+
+FOR GENERAL LTL CARGO
+
+NOTE (1) Where the rate is dependent on value, shippers are required to state specifically in writing the agreed or declared value of the property as follows: The agreed or declared value
+of the property is specifically stated by the shipper to be not exceeding per NOTE (2) Liability Limitation for loss of damage on this shipment may
+be applicable. See 49 U.S.C. 14706(c)(1)(A) and (B). NOTE (3) Commodities requiring special or additional care or attention in handling or stowing must be so marked and packaged as to
+ensure safe transportation with ordinary care. See Sec. 2(e) of NMFC Item 360. RECEIVED, subject to individually determined rates or contracts that have been agreed upon in writing
+between the carrier and, as applicable, shipper or consignee, otherwise to the rates, classifications and rules that have been established by the carrier and are available to the shipper or
+consignee, on request; the property described above, in apparent good order, except as noted (contents and condition of contents of packages unknown) marked, consigned, and destined
+‘as shown above, which said carrier agrees to carry to destination, if on its route, or otherwise to deliver to another carrier on the route to destination. It is mutually agreed, as to each carrier
+of all or any of said property over all of any portion of said route to destination, and as to each part at any time interested in all or any of said property that every service to be performed
+hereunder shall be subject to all the terms and conditions of the Uniform Bill of Lading set forth in the National Motor Freight Classification 100-X and successive issues. The shipper or
+consignee hereby certifies that he is familiar with all the terms and conditions of the said bill of lading and the said terms and conditions are hereby agreed to by the shipper and accepted
+for himself and his assigns.
+
+FOR SECURED AIR CARGO
+
+JAS Forwarding (USA), Inc. requires operational events (EDI 214)
+and invoice (EDI 210) to be transmitted to their partner, Ex Works.
+Inc. Contact support@exworksinc.com with any questions relating
+to EDI transmission
+
+‘The carrier agrees to honor the requirements of the signed TSA Security Agreement Letter with the IAC/Forwarder issuing this BOL if ** TSA Air Pickup” is included in the cargo
+description,
+
+JAS Terms and Conditions
+Refer to: https:/www.jas.com/uploads/8/3/1/3/83138788/as broker terms and conditions.pat
+
+Service:
+
+Received in good order
+
+/_]
+Date
+
+Time
+
+Received by (name) Received by (signature)
+

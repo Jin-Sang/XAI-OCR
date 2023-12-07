@@ -1,0 +1,101 @@
+Sri
+
+Delivery Order - CSHO0021374 TCNU3759505
+
+THE IMPORT MANAGER
+IDEA NUOVA INC.
+
+302 FIFTH AVENUE
+NEW YORK NY 10001
+
+SHIPMENT DETAILS
+
+US PACIFIC TRANSPORT INC
+3636 Main St Ste 6F
+
+Flushing, NY, 11354
+
+Tel: 718-632-8686
+
+Fax: 718-632-8693
+
+www.uspti.com
+
+Page 1 of 1
+
+SHIPMENT SSH00023126
+CONSOL CSH00021374
+DATE 22-Dec-22 10:12
+
+PRINTED BY: NY OP
+
+[PICKUP FROM
+
+YUSEN TERMINALS INC. FIRMS CODE Y790
+701 NEW DOCK ST
+
+TERMINAL ISLAND
+
+SAN PEDRO CA 90731
+
+UNITED STATES
+
+[DELIVER TO
+
+IDEA NUOVA INC./ WHSE#107 NGL
+3100 JEFFERSON ST
+
+RIVERSIDE CA 92504
+
+UNITED STATES
+
+Phone: +1 310-548-8000 Fax: Contact: The Transport Manager Phone:
+CARRIER (ORDER NUMBERS / REFERENCE
+
+YANG MING MARINE TRANSPORT CORP. REF#23768, PO#28906-3/28951
+TRANSPORT COMPANY DELIVERY NOTES
+
+NGL TRANSPORTATION
+
+3100 JEFFERSON ST
+
+RIVERSIDE CA 92504
+
+UNITED STATES
+
+Phone: Fax:
+
+VESSEL / VOYAGE / IMO(LLOYDS) OCEAN BILL OF LADING |[HOUSE BILL OF LADING
+NYK THEMIS / 083E / 9356696 YMLUW236731863 SH221123126
+RELEASE TYPE COMMODITY TYPE
+OBR - Original Bill Required at Destination GEN (General)
+PORT OF LOADING ETD PORT OF DISCHARGE ETA
+CNSHA = SHANGHAI, China 26-Nov-22 USLAX = Los Angeles, United States 19-Dec-22
+ROUTING INFORMATION
+Mode Vessel / Voyage / IMO(Lloyds) Carrier ETD ETA
+SEA NYK THEMIS / 083E / 9356696 YANG MING MARINE TRANSPORT CORP. 26-Nov-22 19-Dec-22
+MARKS AND NUMBERS GOODS DESCRIPTION WEIGHT VOLUME PACKS (OUT/IN)
+I.N.I BLANKET 6490.000 KG 66.910 M3 5900 CTN /-
+PO#28906-3/28951
+CONTAINER SEAL TYPE WEIGHT VOLUME PACKS|
+TCNU3759505 YMAM306268 40HC FCL 6490.000 KG 66.910 M3 5900 CTN
+HANDLING/DELIVERY INSTRUCTIONS
+WUP - Wait for Pack/Unpack
+INLAND FREIGHT
+[CARRIER |[CONSIGNEE
+
+We certify that the cargo is in good order and condition and that the Quantities,
+Weights, and Measurements shown here in are true and correct at the time of
+loading into the container or delivery to the carrier.
+
+Signed Date
+
+Received the above mentioned cargo/container in apparent good order and
+condition subject to the terms, conditions and exceptions contained in the Container
+Bill of Lading issue by this Company on behalf of the owner.
+
+Signed Date
+
+This order is not valid until merchandise has been released and is available for delivery. Notify us at once if delivery cannot be delivered
+as instructed. US PACIFIC TRANSPORT INC is an agent only, and has no beneficial title in property.
+

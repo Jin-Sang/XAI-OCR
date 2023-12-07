@@ -1,0 +1,48 @@
+BOL WHLC026C536300 WAN HAI 626
+WHSU9004929
+
+Container BOL Dest LBCH
+Port EntryDa 12/4/2022 Container Size 4S5FT
+Port Entry LBCH Firm Code
+
+This form must accompany driver and be signed by consignee as proof of delivery.
+
+Total Total
+Case PO# NO. DESCRIPTION Qty CSPack Cases Cube Case Wgt ‘Total Wet. SKU # Delivery PO
+89742-00 12" FLUTED SERVE BOWL-WATERMELON 4776 12 398 237.74 9.2 3677.52
+89098-00 11" RD DINNER PLATE-HMR WVY-3ASST-RUSTIC CHARM-PDQ. 2424 24 101 113.12 17.6 1781.64
+89101-00 14" SERVE BOWL-HMR WVY-2ASST-RUSTIC CHARM 1584 12 132 118.53 8.3 1089
+85669-00 7.5" HMR COUPE BOWL-THE BUZZ-2ASST- PDQ 10248 24 427 172.64 12.7 5401.55
+85668-00 7.5" RD HMR SALAD PLATE-THE BUZZ-2ASST-PDQ. 9024 24 376 176.73 10.7 4034.48
+85667-00 10.5" HMR DINNER PLATE-THE BUZZ-3ASST-PDQ. 11784 24 491 501.68 13.8 6751.25
+85671-00 19" X 7.75" HMR RECT TRAY-THE BUZZ-2ASST 6840 12 570 299.08 12.8 7273.2
+85670-00 12.2" HMR SERVE BOWL-THE BUZZ 4932 12 411 408.8 15.5 6366.39
+85672-00 14" HMR RD TRAY-THE BUZZ-2ASST 4572 12 381 171.86 15.4 5867.4
+85673-00 18" X 13" HMR OVAL TRAY-THE BUZZ-2 ASST 4944 12 412 286.9 15.4 6344.3
+79430-00 19" X 8" RECT SERVE TRAY-AMERCIAN GLORY-2ASST 3864 24 161 116.42 21.4 3437.35
+79431-00 15" SQUARE TRAY-AMERICAN GLORY-2ASST 2244 12 187 117.01 12.3 2300.1
+
+MERCHANTS DISTRIBUTORS, INC. Delivery Carrier : Time In
+5005 ALEX LEE BOULEVARD
+HICKORY NC 28601 Delivery Date Time Out
+LFD Target Del Date 3/15/2023
+Contact Seal #
+
+Phone Exceptions
+
+E-mail
+
+Fax
+
+Lumper Received by
+
+Instructions:
+
+1. Reference Delivery PO when making appointment
+ap OD
+
+. Nofity our office of delivery appointments.
+. Exceptions: Shortages, Damages or Overages (all exception must be identified by item and our office notified immediately)
+. Proof of Delivery: Required within 3 days of delivery, email to msousa@fareastbrokers.com
+
+. Seal # required.

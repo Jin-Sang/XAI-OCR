@@ -1,0 +1,45 @@
+BOL WHLCO031C576971 WAN HAI 353
+
+Container WHSU6672117 BOL Dest LBCH
+Port EntryDa 12/6/2022 Container Size 40HQ
+Port Entry LBCH Firm Code
+
+This form must accompany driver and be signed by consignee as proof of delivery.
+
+Total Total
+Case PO# NO. DESCRIPTION Qty CSPack Cases Cube Case Wgt ‘Total Wet. SKU # Delivery PO
+
+23PO-1152 65424-00 2.5" MATTE PEARLZD/GLITTER COLOR EGG-12CT-PERFCASE 4312 56 77 239.56 8.3 639.1 32598
+23PO-1152 65427-00 5.5" ELECTROPLATED GOLDEN EGG IN PDQ 3504 24 146 212.01 7.8 1135.88 71967
+23PO-1152 65425-00 3.25" MATTE PEARLIZED/GLITTER EGG- 6CT-PERF CASE 5568 64 87 306.79 8.5 736.89 71969
+23PO-1152 65419-01 1.750Z EASTER GRASS - ASSORTED COLORS IN PDQ 5040 48 105 291.89 6.2 648.9
+
+23PO-1152 43850-00 80Z CLEAR BOTTLE BUBBLES SOLUTION IN PDQ 21120 48 440 495.07 29.0 12777.6 38445
+23PO-1152 43851-00 160Z CLEAR BOTTLE BUBBLES SOLUTION IN PDQ 16620 20 831 653.49 22.9 19013.28 41926
+23PO-1152 43853-00 80Z BUBBLE AQUARIUM IN PDQ - 4 ASST 5136 48 107 122.29 32.6 3483.92 43417
+
+1793 2321.1 38435.57
+
+MERCHANTS DISTRIBUTORS, INC. Delivery Carrier : Time In
+5005 ALEX LEE BOULEVARD
+HICKORY NC 28601 Delivery Date Time Out
+
+LFD Target Del Date 1/15/2023
+Contact Seal #
+Phone Exceptions
+
+E-mail
+Fax
+
+Lumper Received by
+
+Instructions:
+1. Reference Delivery PO when making appointment
+. Nofity our office of delivery appointments.
+. Exceptions: Shortages, Damages or Overages (all exception must be identified by item and our office notified immediately)
+
+. Proof of Delivery: Required within 3 days of delivery, email to msousa@fareastbrokers.com
+
+an oD
+
+. Seal # required.

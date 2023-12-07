@@ -1,0 +1,104 @@
+Sri
+
+Delivery Order - CSH00021996 MATU2770897
+
+THE IMPORT MANAGER
+IDEA NUOVA INC.
+
+302 FIFTH AVENUE
+NEW YORK NY 10001
+
+SHIPMENT DETAILS
+
+US PACIFIC TRANSPORT INC
+3636 Main St Ste 6F
+
+Flushing, NY, 11354
+
+Tel: 718-632-8686
+
+Fax: 718-632-8693
+
+www.uspti.com
+
+Page 1 of 1
+
+SHIPMENT SSH00023785
+CONSOL CSH00021996
+DATE 14-Dec-22 09:40
+
+PRINTED BY: NY OP
+
+[PICKUP FROM
+
+SHIPPERS TRANSPORT EXPRESS (Z773)
+1150 E SEPULVEDA BLVD
+
+CARSON CA 90745
+
+CARSON CA 90745
+
+UNITED STATES
+
+[DELIVER TO
+
+IDEA NUOVA INC./ WHSE#107 NGL
+3100 JEFFERSON ST
+
+RIVERSIDE CA 92504
+
+UNITED STATES
+
+Phone: Fax: Contact: The Transport Manager Phone:
+CARRIER (ORDER NUMBERS / REFERENCE
+MATSON NAVIGATION REF#23825, 28583, 28682
+
+TRANSPORT COMPANY DELIVERY NOTES
+
+NGL TRANSPORTATION
+
+3100 JEFFERSON ST
+
+RIVERSIDE CA 92504
+
+UNITED STATES
+
+Phone: Fax:
+
+WUP - Wait for Pack/Unpack
+
+INLAND FREIGHT
+
+VESSEL / VOYAGE / IMO(LLOYDS) OCEAN BILL OF LADING |[HOUSE BILL OF LADING
+MATSON MAUI / 007E / 9340764 MATS9524854000 SH221223785
+RELEASE TYPE (COMMODITY TYPE
+OBR - Original Bill Required at Destination GEN (General)
+PORT OF LOADING ETD PORT OF DISCHARGE ETA
+CNNGB = Ningbo, China 06-Dec-22 USLGB = Long Beach, United States 19-Dec-22
+ROUTING INFORMATION
+Mode Vessel / Voyage / IMO(Lloyds) Carrier ETD ETA
+SEA MATSON MAUI / 007E / 9340764 MATSON NAVIGATION 07-Dec-22 19-Dec-22
+MARKS AND NUMBERS GOODS DESCRIPTION WEIGHT VOLUME PACKS (OUT/IN)
+I.N.I 100% POLYESTER PRINTED CURTAINS 13500.000 KG 68.000 M3 3044 CTN/-
+LA 100% POLYESTER PU CURTAINS
+
+PO#28583,28682
+CONTAINER SEAL TYPE WEIGHT VOLUME PACKS|
+MATU2770897 1203718 40HC FCL 13500.000 KG 68.000 M3 3044 CTN
+HANDLING/DELIVERY INSTRUCTIONS
+
+CARRIER
+
+|[CONSIGNEE
+Received the above mentioned cargo/container in apparent good order and
+condition subject to the terms, conditions and exceptions contained in the Container
+Bill of Lading issue by this Company on behalf of the owner.
+
+We certify that the cargo is in good order and condition and that the Quantities,
+Weights, and Measurements shown here in are true and correct at the time of
+loading into the container or delivery to the carrier.
+
+Signed Date Signed Date
+This order is not valid until merchandise has been released and is available for delivery. Notify us at once if delivery cannot be delivered
+
+as instructed. US PACIFIC TRANSPORT INC is an agent only, and has no beneficial title in property.

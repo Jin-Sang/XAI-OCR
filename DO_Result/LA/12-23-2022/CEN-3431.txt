@@ -1,0 +1,103 @@
+.
+Carg Or Y atic 211 E. Ocean Blvd, Suite 350 Long Beach CA 90802
+
+DELIVE RY Carrier:
+ORDER
+
+12/23/2022 07:02:29 PST
+
+NGL Transportation LLC | Order # ORD-274262
+500 W.140th st.,
+Gardena, California 90248 | Shipment # CEN-3431
+| Order Type import
+Service Type drop
+
+SERVICE ALERT
+
+hours after completing a job. Go to Carrier Portal.
+
+Status: En Route
+
+All PODs, invoices, and accessorial charge requests must be submitted through the Cargomatic Carrier Portal within 48
+
+Pickup
+
+WEST BASIN CONTAINER TERMINAL
+
+2050 John S Gibson Blvd
+San Pedro CA 90731
+
+No confirmed appointment
+
+P/U Number
+
+Reefer Temp
+
+Delivery
+
+ACT Fontana
+
+11100 Hemlock Ave
+Southwest Industrial Park CA 92337
+
+No confirmed appointment
+
+Certified Weight
+
+Hazardous
+
+°F
+
+Vessel Arrival
+
+No
+
+Last Free Day
+
+YM UPSURGENCE
+
+Reference Numbers
+
+Name Value
+
+Cus ref no 1970438
+
+Entry no 275-2249515-2
+Equipment ONEU7033825
+Master bol ONEYXMNC97661700
+Order ORD-274262
+
+Our ref no B00258527
+Shipment CEN-3431
+
+Equipment
+Number Size Type
+
+ONEU7033825 45 container
+
+Special Instructions
+
+Cargo Description
+
+Rate Details |
+
+Service for CEN-3431
+
+Base Cost
+
+Total
+
+Amount Rate Extended
+$954.00 $954.00
+$954.00
+
+CARRIER AGREES TO PROVIDE FINAL CHARGES WITHIN 48 HOURS OF
+COMPLETION OF SHIPMENT.
+
+INVOICES MUST BE UPLOADED TO THE CARGOMATIC CARRIER PORTAL AT
+command.cargomatic.com
+NO ADDITIONAL FEES SHALL BE CHARGED BY CARRIER WITHOUT PREVIOUS. INVOICES MUST CONTAIN: SIGNED PROOF OF DELIVERY, EQUIPMENT
+
+WRITTEN NOTIFICATION AND APPROVAL BY CARGOMATIC, INC. INTERCHANGE TICKETS, AND ITEMIZATION OF ALL ACCESSORIAL CHARGES
+INCURRED IN CONNECTION WITH THE SHIPMENT, INCLUDING RECEIPTS AND
+PRIOR APPROVALS BY CARGOMATIC, INC.

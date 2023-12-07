@@ -1,0 +1,107 @@
+Sri
+
+Delivery Order - CSHO0021170 FBLU0135462
+
+THE IMPORT MANAGER
+IDEA NUOVA INC.
+
+302 FIFTH AVENUE
+NEW YORK NY 10001
+
+SHIPMENT DETAILS
+
+US PACIFIC TRANSPORT INC
+3636 Main St Ste 6F
+
+Flushing, NY, 11354
+
+Tel: 718-632-8686
+
+Fax: 718-632-8693
+
+www.uspti.com
+
+Page 1 of 1
+
+SHIPMENT SSH00022880
+CONSOL CSH00021170
+DATE 02-Dec-22 15:10
+
+PRINTED BY: NY OP
+
+[PICKUP FROM
+
+TOTAL TERMINAL -- PIER T/HANJIN TERMINAL (Z952)
+PIER T (2952)
+
+301 PIER T AVE
+
+LONG BEACH PIER T FIRMS CODE: Z952
+
+LONG BEACH CA 90802
+
+UNITED STATES
+
+Phone: +1 562-256-2649 Fax:
+
+[DELIVER TO
+IDEA NUOVA INC./ WHSE#107 NGL
+3100 JEFFERSON ST
+RIVERSIDE CA 92504
+UNITED STATES
+
+Contact: The Transport Manager Phone:
+
+CARRIER
+YANG MING MARINE TRANSPORT CORP.
+
+ORDER NUMBERS / REFERENCE
+REF#23742, PO:27893, 28403, 28420, 28402
+
+TRANSPORT COMPANY
+NGL TRANSPORTATION
+3100 JEFFERSON ST
+RIVERSIDE CA 92504
+UNITED STATES
+
+Phone: Fax:
+
+DELIVERY NOTES
+
+VESSEL / VOYAGE / IMO(LLOYDS) OCEAN BILL OF LADING |[HOUSE BILL OF LADING
+HMM PROMISE / 029E / 9742168 YMPRW23672961 1 SH221122880
+RELEASE TYPE COMMODITY TYPE
+OBR - Original Bill Required at Destination GEN (General)
+PORT OF LOADING ETD PORT OF DISCHARGE ETA
+CNSHA = SHANGHAI, China 17-Nov-22 USLGB = Long Beach, United States 06-Dec-22
+ROUTING INFORMATION
+Mode Vessel / Voyage / IMO(Lloyds) Carrier ETD ETA
+SEA HMM PROMISE / 029E / 9742168 YANG MING MARINE TRANSPORT CORP. 17-Nov-22 06-Dec-22
+MARKS AND NUMBERS GOODS DESCRIPTION WEIGHT VOLUME PACKS (OUT/IN)
+ILN.I. PLUSH TOY 8855.200 KG 137.510 M3 519 CTN/-
+MADE IN CHINA
+PO:27893&28403&284208&28402
+
+CONTAINER SEAL TYPE WEIGHT VOLUME PACKS|
+FBLU0135462 YMAN251096 40HC FCL 4547.600 KG 68.310 M3 247 CTN
+YMMU6409586 YMAN251091 40HC FCL 4307.600 KG 69.200 M3 272 CIN
+HANDLING/DELIVERY INSTRUCTIONS
+WUP - Wait for Pack/Unpack
+
+INLAND FREIGHT
+[CARRIER |[CONSIGNEE
+
+We certify that the cargo is in good order and condition and that the Quantities,
+Weights, and Measurements shown here in are true and correct at the time of
+loading into the container or delivery to the carrier.
+
+Signed Date
+
+Received the above mentioned cargo/container in apparent good order and
+condition subject to the terms, conditions and exceptions contained in the Container
+Bill of Lading issue by this Company on behalf of the owner.
+
+Signed Date
+
+This order is not valid until merchandise has been released and is available for delivery. Notify us at once if delivery cannot be delivered
+as instructed. US PACIFIC TRANSPORT INC is an agent only, and has no beneficial title in property.

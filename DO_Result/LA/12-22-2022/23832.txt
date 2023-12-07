@@ -1,0 +1,119 @@
+Sri
+
+Delivery Order - CHK00021921 GCXU5351417
+
+THE IMPORT MANAGER
+IDEA NUOVA INC.
+
+302 FIFTH AVENUE
+NEW YORK NY 10001
+
+SHIPMENT DETAILS
+
+US PACIFIC TRANSPORT INC
+3636 Main St Ste 6F
+
+Flushing, NY, 11354
+
+Tel: 718-632-8686
+
+Fax: 718-632-8693
+
+www.uspti.com
+
+Page 1 of 2
+
+SHIPMENT SHK00023740
+CONSOL CHK00021921
+DATE 22-Dec-22 15:19
+
+PRINTED BY: NY OP
+
+[PICKUP FROM
+
+PACIFIC CONTAINER TERMINAL - PIER J (W182)
+1521 PIER J AVE
+
+BERTH 246
+
+LONG BEACH CA 90802
+
+UNITED STATES
+
+Phone: +1 866-545-3142
+
+Fax: +1 866-381-5173
+
+DELIVER TO ]
+IDEA NUOVA INC./ WHSE#107 NGL
+
+3100 JEFFERSON ST
+
+RIVERSIDE CA 92504
+
+UNITED STATES
+
+Contact: The Transport Manager Phone:
+
+CARRIER ORDER NUMBERS / REFERENCE
+WAN HAI LINES LTD. REF#23832
+
+TRANSPORT COMPANY DELIVERY NOTES
+
+NGL TRANSPORTATION
+
+3100 JEFFERSON ST
+RIVERSIDE CA 92504
+UNITED STATES
+
+Phone: Fax:
+VESSEL / VOYAGE / IMO(LLOYDS) OCEAN BILL OF LADING |[HOUSE BILL OF LADING
+LISBON / E015 / 9248148 WHLC025C822623 HK221223740
+RELEASE TYPE COMMODITY TYPE
+NON - Not Negotiable unless consigned to Order GEN (General)
+PORT OF LOADING ETD PORT OF DISCHARGE ETA
+CNSHK = Shekou Pt, China 08-Dec-22 USLGB = Long Beach, United States 27-Dec-22
+ROUTING INFORMATION
+Mode Vessel / Voyage / IMO(Lloyds) Carrier ETD ETA
+SEA LISBON / E015 / 9248148 WAN HAI LINES LTD. 08-Dec-22 27-Dec-22
+MARKS AND NUMBERS GOODS DESCRIPTION WEIGHT VOLUME PACKS (OUT/IN)
+DEPT#20 PO 28742 CHAIR COVERS 220,014 QTY AT USD 32611.200 KG 350.715 M3 5160 CTN/-
+BEACH NON LICENSE 3.28 TOTAL USD 721,645.92 ETD 12/30/22
+CHAIR COVER PINK INCOTERMS - FOB - FREE ON BOARD
+
+PLACE PORT - CHINA
+
+LC NO: 10000177-00
+[CONTAINER SEAL TYPE WEIGHT VOLUME PACKS|
+GCXU5351417 WHLT075644 40HC FCL 6522.240 KG 70.143 M3 1032 CTN
+WHSU5104961 WHLT075723 40HC FCL 6522.240 KG 70.143 M3 1032 CTN
+WHSU5285710 WHLT075724 40HC FCL 6522.240 KG 70.143 M3 1032 CTN
+WHSU5621516 WHLT075648 40HC FCL 6522.240 KG 70.143 M3 1032 CTN
+WHSU5695545 WHLT075735 40HC FCL 6522.240 KG 70.143 M3 1032 CTN
+
+[HANDLING/DELIVERY INSTRUCTIONS
+WUP - Wait for Pack/Unpack
+INLAND FREIGHT
+
+CARRIER
+
+ICONSIGNEE
+
+We certify that the cargo is in good order and condition and that the Quantities,
+Weights, and Measurements shown here in are true and correct at the time of
+
+loading into the container or delivery to the carrier.
+
+Signed
+
+Date
+
+Received the above mentioned cargo/container in apparent good order and
+condition subject to the terms, conditions and exceptions contained in the Container
+Bill of Lading issue by this Company on behalf of the owner.
+
+Signed Date
+
+This order is not valid until merchandise has been released and is available for delivery. Notify us at once if delivery cannot be delivered
+as instructed. US PACIFIC TRANSPORT INC is an agent only, and has no beneficial title in property.
+

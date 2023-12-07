@@ -1,0 +1,37 @@
+(Straight Bill of Lading & Delivery Instruction)
+
+TRISTATE LOGISTICS INC,
+__A\__ 144008. SAN PEDRO ST. Order#: 16844-1 Ref (PO) No. 101305600
+TRISTATE GARDENA, CA 90240
+2—— 424-329-3577, dispatch@i3state.com
+
+Driver: Truck#: Dispatcher: TLPJ.3state7
+Customer: NGL TRANSPORTATION IMPORT ORDER
+Container#: TRIU0316922 20 ST B/L#: COSU8026427340
+Pickup From: TRISTATE LOGISTICS PIN#: 7340
+Gate Appt: 00:00 00/00/0000 Appt#:
+Pre-Pull:
+Pikcup From: Delivery To: Empty Return:
+P/U Appt: Customer Appt: Empty Appt:
+TRISTATE LOGISTICS ECO GREEN EQUIPMENT TRISTATE LOGISTICS
+14400 S. SAN PEDRO STREET 615 W 900 N 14400 S. SAN PEDRO STREET
+GARDENA, CA_90248 NORTH SALT LAKE, UT 84054 GARDENA, CA_90248
+Chassis# Line COSU |
+Seal#: 5 ak od
+Pes: 15 Weight(LBS): 37,038 ate
+Above information provided by the shipper and Shipper's Load & Count only.
+Drop/Live: Lot-Row
+
+A
+T-Remark 1 DELIVERY APPT - 12/19@1000AM
+
+Driver Details Driver Signature Date/Time Arrived:
+
+Date/Time Departed
+
+Customer (Consignee) Receipt:
+
+Name (Please Print) Signature Date
+
+(Customer agrees that, unless otherwise noted herin, all goods were delivered in the same condition as pickup)
+(Straight Bill of Lading & Delivery Instruction)
